@@ -1,6 +1,6 @@
 # fed-teaching-slides
 
-![front.png](assets/front.png)
+![front.jpg](front.jpg)
 
 此仓库内包含了天津大学[天外天工作室](https://coder.twtstudio.com/) Web 前端组新人培训的授课课程材料。
 
