@@ -28,8 +28,8 @@ This repo includes the teaching materials used in Tianjin University [TWT Studio
 \- Is the original format available?  <br />
 \- 原始格式文件可用吗？
 
-\- 考虑到 PowerPoint 版本和字体系统兼容问题可能导致显示效果不一致，本仓库只包含了授课幻灯片所导出的 pdf 文件。授课时的幻灯片动画因此无法被展示，备课稿也没有包含。但如果你是一名天津大学的学生，并对我们的课程感兴趣，可以选择加入天外天或预约课程旁听。  <br />
-\- Due to the compatibility and display consistency problems for PowerPoint slides, this repo only contains exported pdfs. The animations and course scripts for these slides, therefore, are not available. However, if you are a Tianjin University student, you're always welcomed to join TWT Studio or apply for a class audition. 
+\- Due to the compatibility and display consistency problems for PowerPoint slides, this repo only contains exported pdfs. The animations and course scripts for these slides, therefore, are not available. However, if you are a Tianjin University student, you're always welcomed to join TWT Studio or apply for a class audition.  <br />
+\- 考虑到 PowerPoint 版本和字体系统兼容问题可能导致显示效果不一致，本仓库只包含了授课幻灯片所导出的 pdf 文件。授课时的幻灯片动画因此无法被展示，备课稿也没有包含。但如果你是一名天津大学的学生，并对我们的课程感兴趣，可以选择加入天外天或预约课程旁听。
 
 \- Who authored these courses?  <br />
 \- 这些课程的作者是谁？
@@ -45,6 +45,6 @@ This repo includes the teaching materials used in Tianjin University [TWT Studio
 
 ## License 协议
 
-This content of this repo is licensed under [CC-BY-SA 4.o](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise specified.
+This content of this repo is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise specified.
 
 除非特别说明，本仓库内容通过 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议授权。
