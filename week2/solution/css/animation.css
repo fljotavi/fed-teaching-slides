@@ -1,0 +1,15 @@
+@keyframes slow-translation {
+    0% {
+        transform: translateX(200px);
+    }
+
+    100% {
+        transform: translateX(-2000px);
+    }
+}
+
+.metropolis-ambient {
+    animation: slow-translation 50s linear infinite both;
+    filter: blur(3px);
+}
+
