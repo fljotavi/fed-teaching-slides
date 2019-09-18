@@ -8,14 +8,14 @@ This repo includes the teaching materials used in Tianjin University [TWT Studio
 
 ## Category 目录
 
-- Week 1 - Getting Started
-- Week 2 - Diggin' Deeper into Layout
-- Week 3 - Go Interactive
-- Week 4 - Requests on Data
-- Week 5 - The MVVM Architecture
-- Elective Course: HTTP Protocal
-- Elective Course: The Front-End Eco
-- Elective Course: Vector in Webs
+- Week 1 - Getting Started 初探
+- Week 2 - Diggin' Deeper into Layout 布局进阶
+- Week 3 - Go Interactive 开发可交互的页面
+- Week 4 - Requests on Data 网络请求与数据渲染
+- Week 5 - The MVVM Architecture 理解 MVVM 架构
+- Elective Course: HTTP Protocal HTTP 协议
+- Elective Course: The Front-End Eco 前端生态：演化与思考
+- Elective Course: Vector in Webs 网页中的矢量图形
 
 ## Q&A 疑问与解答
 
